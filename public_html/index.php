@@ -21,7 +21,7 @@
             <label>Usuario</label><input type="Text" name="usuario" id="user" placeholder="Usuario" />
             <label>Contraseña</label><input type="password" name="password" id="pass" placeholder="Password" />
             <input type="submit" id="Log" value="Login" />
-            <p id="two">¿No tienes una Cuenta? <a class="signup" href="#" id="signup">Registrate Aqui</a></p>
+            <p id="two">¿No tienes una cuenta para ver las capacitaciones? <a class="signup" href="#" id="signup">Registrate Aqui</a></p>
         </form>
         </div>
        
