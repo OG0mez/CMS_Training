@@ -4,8 +4,8 @@
         <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script  type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/Style.css">
+    <script type="text/javascript" src="./js/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/Style.css">
     </head>
     <body>
     <br>
