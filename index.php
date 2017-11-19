@@ -1,23 +1,21 @@
 <html>
     <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
         <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script  type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="./js/script.js"></script>
-    <link rel="stylesheet" type="text/css" href="./css/Style.css">
+    <script type="text/javascript" src="js/script.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/Style.css">
     </head>
     <body>
-    <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+    <img id ="logo" src="img\Capacitaciones-logo.png" >
+
         <div id="main">
         <div id="first">
-        <h1>ONG Capacitaciones</h1>
-        <form action="login.jsp" method="post" >
+        
+        <h1>Registro</h1>
+        <form >
             <label>Usuario</label><input type="Text" name="usuario" id="user" placeholder="Usuario" />
             <label>Contraseña</label><input type="password" name="password" id="pass" placeholder="Password" />
             <input type="submit" id="Log" value="Login" />

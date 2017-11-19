@@ -5,7 +5,8 @@
 
 
 body{
-  background-image: url("../imagenesbg/background-web.png");
+ 
+  background-image: url("../img/background-web.png");
    
   font-family:'Open Sans',sans-serif;
 }
@@ -28,13 +29,17 @@ body{
 /*.button:hover{
   background:#2288bb;
 }*/
-
+#logo{
+  display: block;
+  margin: auto;
+  
+}
 #main{
 position:relative;
 margin-top:15px
 }
 #first{
-width:308px;
+max-width:308px;
 margin-top:30px;
 padding:28px 25px;
 background-color:#fff;
